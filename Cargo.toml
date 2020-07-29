@@ -9,4 +9,4 @@ repository = "https://github.com/collinpeters/simple-cargo-toml"
 readme = "README.md"
 
 [dependencies]
-fs-utils = "1.1.1"
+base64 = "=0.5.1"
