@@ -1,4 +1,4 @@
-package]
+[package]
 name = "simple-cargo-toml"
 version = "0.0.1"
 authors = ["Collin Peters <cpeters@sonatype.com>"]
